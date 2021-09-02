@@ -23,9 +23,9 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = 'django-insecure-)zh+iwyz*y0+6bfe-yiw!%s*g3-0oeqt*r)dya04_g-bx%b+gs'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['nflprogs.azurewebsites.net']
 
 
 # Application definition
