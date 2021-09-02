@@ -1,1 +1,1 @@
-web: gunicorn nflprogs_az.wsgi
+web: gunicorn nflprogs_az.wsgi:application
