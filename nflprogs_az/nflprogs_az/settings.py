@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-)zh+iwyz*y0+6bfe-yiw!%s*g3-0oeqt*r)dya04_g-bx%b+gs
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['nflprogs.azurewebsites.net']
+ALLOWED_HOSTS = ['footballprogs.herokuapp.com/']
 
 
 # Application definition
