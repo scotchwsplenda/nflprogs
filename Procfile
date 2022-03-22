@@ -1,1 +1,0 @@
-web: gunicorn --pythonpath nflprogs_az nflprogs_az.wsgi
